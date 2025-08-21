@@ -1,5 +1,2 @@
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=2800&pause=1200&color=00FF00&width=520&lines=Hello,+my+name+is+Nick.;Loading...;Loading...;Profile+loaded:+ClearLotus;>>>+Session+initialized)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=2200&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&repeat=false&width=940&lines=ACCESS+DENIED;login:+Nick;password:+********;Authorizing...;ACCESS+GRANTED;Profile+loaded:+ClearLotus;>>>+Session+initialized;Arming+sequence:+A%2DZ%200%2D0%2D0%2D0;Initializing+GOLDENEYE+uplink...;Aligning+satellite+array...;Uplink+stable;Target+lock+acquired;Transmit+encoded+payload...;Transfer+complete;>>>+Awaiting+further+commands)
 
