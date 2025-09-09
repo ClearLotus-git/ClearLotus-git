@@ -1,4 +1,4 @@
-Hi
+Hi, I'm Nick.
 
 
 <!-- GoldenEye-style terminal sequence 
