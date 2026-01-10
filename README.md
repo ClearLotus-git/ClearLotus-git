@@ -1,4 +1,4 @@
-Hi, I'm Nick.
+
 
 ```
 Spell-check the rules. Are there any typos in the rules?
